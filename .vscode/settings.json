@@ -1,1 +1,16 @@
-{"files.encoding": "windows1251", "scm.diffDecorations": "none", "files.autoGuessEncoding": false}
+{
+	"files.encoding": "windows1251", 
+	"scm.diffDecorations": "none", 
+	"files.autoGuessEncoding": false,
+	"editor.suggest.showStatusBar": true,
+    "zenMode.hideStatusBar": false,
+    "workbench.statusBar.visible": true,
+	"workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontWeight": "bold",
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.lineNumbers": "on"
+	
+}
+
+
